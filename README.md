@@ -16,5 +16,5 @@ I'm learing , how to develop websites
 Javascript, HTML, CSS...
 
 ###article vaccovid 19 pandemic more than 4 paragraphs ###hearders navigation bars logo
-comment < create a new branch and murged in master branch 
+ 
 
